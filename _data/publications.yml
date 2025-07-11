@@ -9,7 +9,7 @@ main:
     arxiv: https://arxiv.org/abs/2507.06516
     image: ./assets/img/UAI25_tea2.png
 
-  - title: 	Match: A Maximum-Likelihood Approach for Classification under Label Shift
+  - title: 	"Match: A Maximum-Likelihood Approach for Classification under Label Shift"
     authors: Zahra Donyavi, Feiyu Li, Yunrui Zhang, Diego Furtado Silva, Gustavo Enrique Batista
     conference_short: KDD
     conference: 31st SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2025.

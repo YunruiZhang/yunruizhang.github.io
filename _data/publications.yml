@@ -26,4 +26,13 @@ main:
     pdf: https://arxiv.org/pdf/2503.20264
     code: https://github.com/YunruiZhang/Revisit-Time-Series-Classification-Benchmark
     arxiv: https://arxiv.org/abs/2503.20264
-    image: ./assets/img/pakdd_tea.png
+    image: ./assets/img/pakdd_tea2.png
+
+  - title: 	"Revisit Time Series Classification Benchmark: The Impact of Temporal Information for Classification"
+    authors: Yunrui Zhang, Gustavo Batista, Salil S Kanhere
+    conference_short: PAKDD
+    conference: The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining <strong>(PAKDD)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2503.20264
+    code: https://github.com/YunruiZhang/Revisit-Time-Series-Classification-Benchmark
+    arxiv: https://arxiv.org/abs/2503.20264
+    image: ./assets/img/pakdd_tea2.png

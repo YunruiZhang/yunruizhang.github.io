@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi there! I am a 3rd-year Ph.D. student at the School of Computer Science and Engineering, the University of New South Wales (UNSW). I am fortunate to be advised by Prof. Salil Kanhere and Prof. Gustavo Batista.
+Hi there! I am a 3rd-year Ph.D. student at the School of Computer Science and Engineering at the University of New South Wales (UNSW) in Sydney, Australia. I am fortunate to be advised by Prof. Salil Kanhere and Prof. Gustavo Batista.
 
 ## Research Interests
 My research interests are focused on the uncertainty of machine learning models, dataset shift, and time series analysis.

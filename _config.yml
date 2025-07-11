@@ -20,7 +20,7 @@ linkedin: https://www.linkedin.com/in/yunrui-zhang-891b591ba/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/yunruizhang.jpg
+avatar: ./assets/img/yunruizhang_cropped.jpg
 favicon: ./assets/img/unsw_syd.png
 favicon_dark: ./assets/img/unsw_syd.png
 

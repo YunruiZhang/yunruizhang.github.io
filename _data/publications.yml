@@ -6,15 +6,14 @@ main:
     conference: The 41st Conference on Uncertainty in Artificial Intelligence <strong>(UAI)</strong>, 2025.
     pdf: https://openreview.net/pdf?id=SxF5SllSqO
     code: https://github.com/YunruiZhang/Calibration-by-Constrained-Transformation
-    image: ./assets/img/UAI25_tea.png
+    arxiv: https://arxiv.org/abs/2507.06516
+    image: ./assets/img/UAI25_tea2.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: 	Match: A Maximum-Likelihood Approach for Classification under Label Shift
+    authors: Zahra Donyavi, Feiyu Li, Yunrui Zhang, Diego Furtado Silva, Gustavo Enrique Batista
+    conference_short: KDD
+    conference: 31st SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2025.
+    # pdf: https://openreview.net/pdf?id=SxF5SllSqO
+    # code: https://github.com/YunruiZhang/Calibration-by-Constrained-Transformation
+    # arxiv: https://arxiv.org/abs/2507.06516
+    image: ./assets/img/kdd_tea.png

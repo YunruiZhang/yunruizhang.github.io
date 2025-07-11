@@ -28,11 +28,9 @@ main:
     arxiv: https://arxiv.org/abs/2503.20264
     image: ./assets/img/pakdd_tea2.png
 
-  - title: 	"Revisit Time Series Classification Benchmark: The Impact of Temporal Information for Classification"
+  - title: 	"Label Shift Estimation With Incremental Prior Update"
     authors: Yunrui Zhang, Gustavo Batista, Salil S Kanhere
-    conference_short: PAKDD
-    conference: The 29th Pacific-Asia Conference on Knowledge Discovery and Data Mining <strong>(PAKDD)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2503.20264
-    code: https://github.com/YunruiZhang/Revisit-Time-Series-Classification-Benchmark
-    arxiv: https://arxiv.org/abs/2503.20264
-    image: ./assets/img/pakdd_tea2.png
+    conference_short: SDM
+    conference: The 25th SIAM International Conference on Data Mining <strong>(SDM)</strong>, 2025.
+    pdf: https://epubs.siam.org/doi/pdf/10.1137/1.9781611978520.12
+    image: ./assets/img/sdm_tea.png

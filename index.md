@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi there! I am a 3rd-year Ph.D. student at the School of Computer Science and Engineering at the University of New South Wales (UNSW) in Sydney, Australia. I am fortunate to be advised by Prof. Salil Kanhere and Prof. Gustavo Batista. <span style="color: red"> *** I am currently actively seeking internship/full-time job opportunities in machine learning or a postdoctoral position. *** </span>
+Hi there! I am a 3rd-year Ph.D. student at the School of Computer Science and Engineering at the University of New South Wales (UNSW) in Sydney, Australia. I am fortunate to be advised by Prof. Salil Kanhere and Prof. Gustavo Batista. <span style="color: red"> **I am currently actively seeking internship/full-time job opportunities in machine learning or a postdoctoral position.** </span>
 
 
 ## Research Interests
